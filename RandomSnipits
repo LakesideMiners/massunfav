@@ -1,0 +1,5 @@
+Since the API has like no docs, I took this stuff from another program I found, mainly just the URLs for api requests
+
+https://e621.net/posts.json?tags={args}&limit=100
+
+(Add snipit to auth with the api)
